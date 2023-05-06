@@ -10,7 +10,7 @@ Before using do not forget to activate venv
 
 For Windows: (your path.\venv\Scripts\activate) then inside the activated venv install:
 1. pip install django
-2. pip install "chek install libraries.txt"
+2. pip install "install libraries.txt"
 3. python manage.py migrate
 4. python manage.py runserver
 
